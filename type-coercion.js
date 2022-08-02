@@ -28,6 +28,9 @@ console.log(`123 === '123' ${123 === '123'}`);
 console.log(`true == 'true' ${true == 'true'}`); //i.e. true -> 1 or i.e. "true" -> NaN
 
 
+
+
+
 console.log("*******************TRUTHY FALSY**************************")
 /**
  *  Truthy / Falsy Values
